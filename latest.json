@@ -3,11 +3,17 @@
     "productName":  "Furigana Workspace",
     "channel":  "preview",
     "platform":  "win32-x64",
-    "version":  "v2026.05.10.100345",
-    "tag":  "v2026.05.10.100345",
-    "releasedAt":  "2026-05-10T01:03:45.1270330Z",
+    "version":  "v2026.05.10.100732",
+    "tag":  "v2026.05.10.100732",
+    "releasedAt":  "2026-05-10T01:07:58.0242503Z",
     "repository":  "https://github.com/luebece/furiganaworkspace",
-    "releasePage":  "https://github.com/luebece/furiganaworkspace/releases/tag/v2026.05.10.100345",
+    "releasePage":  "https://github.com/luebece/furiganaworkspace/releases/tag/v2026.05.10.100732",
     "sourceDist":  "C:\\Windows\\System32\\project\\dist\\win-unpacked",
-    "asset":  null
+    "asset":  {
+                  "name":  "FuriganaWorkspace-win-unpacked-v2026.05.10.100732.zip",
+                  "path":  "C:\\Windows\\System32\\project\\release\\FuriganaWorkspace-win-unpacked-v2026.05.10.100732.zip",
+                  "size":  449617925,
+                  "sha256":  "0e934472df0286c80b6a93ccb889e3a47fff8c70475bf4d79814206e734901d8",
+                  "url":  "https://github.com/luebece/furiganaworkspace/releases/download/v2026.05.10.100732/FuriganaWorkspace-win-unpacked-v2026.05.10.100732.zip"
+              }
 }
