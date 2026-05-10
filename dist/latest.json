@@ -1,0 +1,13 @@
+﻿{
+    "app":  "Furigana Workspace",
+    "productName":  "Furigana Workspace",
+    "channel":  "preview",
+    "platform":  "win32-x64",
+    "version":  "v2026.05.10.100345",
+    "tag":  "v2026.05.10.100345",
+    "releasedAt":  "2026-05-10T01:03:45.1270330Z",
+    "repository":  "https://github.com/luebece/furiganaworkspace",
+    "releasePage":  "https://github.com/luebece/furiganaworkspace/releases/tag/v2026.05.10.100345",
+    "sourceDist":  "C:\\Windows\\System32\\project\\dist\\win-unpacked",
+    "asset":  null
+}
